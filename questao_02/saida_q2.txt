@@ -1,0 +1,27 @@
+01º -> Nome: Distrito Federal; PIB: 22553879.00
+02º -> Nome: Rio de Janeiro; PIB: 765718.40
+03º -> Nome: São Paulo; PIB: 345512.55
+04º -> Nome: Espírito Santo; PIB: 198619.97
+05º -> Nome: Amazonas; PIB: 169240.44
+06º -> Nome: Paraná; PIB: 80903.99
+07º -> Nome: Santa Catarina; PIB: 79373.22
+08º -> Nome: Pernambuco; PIB: 76958.18
+09º -> Nome: Mato Grosso do Sul; PIB: 74033.90
+10º -> Nome: Rio Grande do Sul; PIB: 71464.61
+11º -> Nome: Rondônia; PIB: 56748.65
+12º -> Nome: Ceará; PIB: 55206.08
+13º -> Nome: Goiás; PIB: 54976.04
+14º -> Nome: Minas Gerais; PIB: 53868.03
+15º -> Nome: Pará; PIB: 50092.02
+16º -> Nome: Mato Grosso; PIB: 48414.23
+17º -> Nome: Bahia; PIB: 45574.42
+18º -> Nome: Amapá; PIB: 39755.00
+19º -> Nome: Roraima; PIB: 38121.53
+20º -> Nome: Sergipe; PIB: 36240.83
+21º -> Nome: Acre; PIB: 35354.59
+22º -> Nome: Alagoas; PIB: 27380.52
+23º -> Nome: Rio Grande do Norte; PIB: 24163.56
+24º -> Nome: Maranhão; PIB: 23956.55
+25º -> Nome: Paraíba; PIB: 16454.08
+26º -> Nome: Piauí; PIB: 11602.22
+27º -> Nome: Tocantins; PIB: 11479.40
